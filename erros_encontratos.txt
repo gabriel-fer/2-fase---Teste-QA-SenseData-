@@ -1,0 +1,27 @@
+
+1-standard_user
+O usuário standard_user passou nos testes realizados sem nenhum problema idenfificado pelo teste solicitado
+
+2-locked_out_user
+O usuário locked_out_user encontra-se bloqueado então não passa da tela de login.
+
+3-problem_user
+o usuário problem_user não apresentou problema na hora de fazer login, mas houve um problema no carregamento das imagens na qual mostrou a foto repetida de um cachorro.
+  os seguintes itens apresentaram problema ao tentar adicionar o item ao carrinho:
+    1-Sauce labs Bolts T-shirt
+    2-Sauce labs fleece jacket
+    3-Test.allTheThing()-T-shirt(RED)
+    
+   os seguintes usuários apresentou problema no botão remover antes de ir para a página do carrinho
+    1-Sauce Labs Backpack
+    2-Sauce Labs Bike Light
+    3-Sauce Labs Onesie
+ O filtro de produtos nenhuma das opções está sendo válida.
+ 
+ na página de chekout apresenta um problema no input Last Name que ele está recebendo as teclas digitadas e jogando para o input First Name. devido isso não é possível concluir o pedido
+
+4-performance_glitch_user
+O usuário performance_glitch_user aprensenta lentidão para fazer login e carregar a página de produtos. 
+apresentou falhas visuais no carregamento do filtro. foi possível concluir o pedido 
+  
+  
