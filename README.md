@@ -3,6 +3,7 @@ Olá esse é o meu teste da segunda etapa do processo seletivo da SenseData
 Todos os objetivos foram atendidos como solicitado.
 
 preparação para executar o script:
+
 1- criar um ambiente virtual com o python e instalar o selenium v4.4.3 ou instalar o requetimentes.txt
 2- baixar o webdriver para o google chrome no site https://chromedriver.chromium.org/downloads
 3- após escolher a opção correspondente ao navegador extrair o arquivo e move-lo para a pasta Script dentro do ambiente virtual
