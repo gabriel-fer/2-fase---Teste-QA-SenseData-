@@ -1,0 +1,19 @@
+[
+    
+    {
+
+    "user":"standard_user",
+    "password":"secret_sauce",
+    "first_name":"paulo",
+    "last_name":"Ferreira",
+    "CEP":"59132280"
+    },
+    {
+        "user":"performance_glitch_user",
+        "password":"secret_sauce",
+        "first_name":"Erika",
+        "last_name":"ferreira",
+        "CEP":"59132098"
+    }
+
+]
