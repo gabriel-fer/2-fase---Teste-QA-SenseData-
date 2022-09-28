@@ -1,4 +1,4 @@
-Olá esse é o meu teste da segunda etapa do processo seletivo da SenseData
+Olá esse é o meu teste da segunda etapa do processo seletivo de QA Jr na SenseData
 
 Todos os objetivos foram atendidos como solicitado.
 
